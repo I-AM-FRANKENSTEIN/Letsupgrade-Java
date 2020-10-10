@@ -37,7 +37,7 @@ class student{
         System.out.println("Grade:- "+g);
     }
 }
-public class Main {
+public class QuestionOne {
 public static void main(String[] args) {
 student stu=new student();
 Scanner sc=new Scanner(System.in);
